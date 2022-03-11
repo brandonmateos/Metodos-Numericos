@@ -1,0 +1,47 @@
+
+#posicion_absolute{
+    position: absolute;
+    position: fixed;
+    left: 110px;
+    top: 130px;
+    
+}
+#posicion_absolute1{
+    position: absolute;
+    position: fixed;
+    left: 560px;
+    top: 130px;
+}
+#posicion_absolute2{
+    position: absolute;
+    position: fixed;
+    left: 1010px;
+    top: 130px;
+}
+#posicion_absolute3{
+    position: absolute;
+    position: fixed;
+    left: 300px;
+    top: 400px;
+}
+#posicion_absolute4{
+    position: absolute;
+    position: fixed;
+    left: 800px;
+    top: 400px;
+}
+
+*{margin: 0;padding: 0}
+header {
+    width:100%;
+    overflow:hidden;
+    background:#30AD12;
+}
+.wrapper{
+    width:90%; 
+    max-width:1000px; 
+    margin: auto;
+    overflow:hidden;
+}
+ 
+ 
